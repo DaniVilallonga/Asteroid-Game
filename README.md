@@ -4,7 +4,7 @@ This Asteroid Game is the end project of the KeepCoding Bootcamp.
 
 
 ## Installation
-Commands for Windows. Check the interwebs for other platforms.
+*Commands for Windows. Check the interwebs for other platforms.*
 
 Create a virtual environment.
 
